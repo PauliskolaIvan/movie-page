@@ -1,0 +1,31 @@
+/* Selector */
+body {
+  background-color: #3DED97;
+}
+
+img.scoobydoo {
+  width: 250px
+}
+
+h1 {
+  /* font verdana storlek 1.7rem , */
+  font-family: verdana,
+    sans-serif;
+  font-size: 1.7rem;
+  color: #B0FC38;
+}
+
+p {
+  font-family: verdana,
+    sans-serif;
+  color: black;
+  font-size: 1.2rem;
+  color: #597D35;
+}
+
+/*
+h1: är 32px
+p: 16px
+
+html : 16px
+*/
